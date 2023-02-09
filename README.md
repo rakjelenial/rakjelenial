@@ -1,1 +1,1 @@
-![rakjelenial's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakjelenial&show_icons=true&theme=radical)
+![rakjelenial stats](https://github-readme-stats.vercel.app/api?username=rakjelenial&show_icons=true&theme=transparent)
